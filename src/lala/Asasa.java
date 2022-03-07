@@ -19,6 +19,8 @@ public class Asasa {
 		Select pais = new Select (driver.findElement(By.xpath("//body/div[3]/form[1]/select[1]")));
 		pais.selectByVisibleText("Mexico City");
 		Thread.sleep(5000);
+		Thread.sleep(5000);
+		
 		}
 		finally {
 			driver.quit();
