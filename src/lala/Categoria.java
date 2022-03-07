@@ -17,6 +17,7 @@ public class Categoria {
 			catego.click();
 			Thread.sleep(10000);
 			
+			
 
 	}
 		finally {
