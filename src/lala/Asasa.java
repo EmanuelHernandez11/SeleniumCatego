@@ -20,6 +20,7 @@ public class Asasa {
 		pais.selectByVisibleText("Mexico City");
 		Thread.sleep(5000);
 		Thread.sleep(5000);
+		Thread.sleep(1000);
 		
 		
 		}
