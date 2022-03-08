@@ -18,6 +18,8 @@ public class Categoria {
 			Thread.sleep(10000);
 			System.out.println("categoria");
 			Thread.sleep(10000);
+			System.out.println("mercado libre");
+			
 			
 			
 
