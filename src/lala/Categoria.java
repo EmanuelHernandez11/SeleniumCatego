@@ -16,6 +16,7 @@ public class Categoria {
 			WebElement catego= driver.findElement(By.className("nav-menu-categories-link"));
 			catego.click();
 			Thread.sleep(10000);
+			System.out.println("categoria");
 			
 			
 
